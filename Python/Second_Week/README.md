@@ -1,3 +1,3 @@
 ## F -> Friday Tasks
-## S -> Starday Tasks
+## S -> Saturday Tasks
 ## W -> WhatsApp Task
